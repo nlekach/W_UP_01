@@ -84,6 +84,6 @@ The p-value is 0.000009421. With a p-value less than 0.5, we reject the null hyp
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-In this analysis, we sought to learn whether there is a difference between the number of pushups completed in two minutes by line players and by skill players.
+In this analysis, we sought to learn whether there is a difference between the number of pushups completed in two minutes by line players and by skill players. 
 The boxplot and the numerical summary show that, on average, skill players can complete more pushups in two minutes than line players. 
-Due to the small p-value of 0.000009421, we can conclude that the skill players can complete more pushups in two minutes than the line players. 
+According to the t-test, there is a 0.0009421% chance that the null hypothesis is correct. Due to this very small p-value, we reject the null hypothesis and conclude that the skill players can complete more pushups in two minutes than the line players. 
